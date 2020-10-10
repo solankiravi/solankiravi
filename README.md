@@ -1,23 +1,24 @@
-<h2> Hey there! I'm Ravi. <img src="https://github.com/solankiravi/solankiravi/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/solankiravi/solankiravi/master/gif3.gif" width="500"/>
+<h2> Hey there! I'm Ravi. <img src="https://github.com/solankiravi/solankiravi/blob/main/Assets/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/solankiravi/solankiravi/blob/main/Assets/coding.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently Working as a devops engineer at @KPIT
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- 🎓 &nbsp; Studied Computer Science in specialization in IT Infrastructure management.
+- 💼 &nbsp; Devops Enginner with knowledge of full stack developement.
+- 🌱 &nbsp; Enthusiast in data science and Artificial Intelligence .
+- ✍️ &nbsp; Owner of <a href="https://www.youtube.com/channel/UCElB8X42691dD9R6xVTDLkw?view_as=subscriber"  rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="30" /></a>
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; Python | Django | Flask  | C# | WPF | Java
+- 🌐 &nbsp; Angular | Electron | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; postgresql | MongoDb | SQL Server
+- 🔧 &nbsp; Visual Studio | Visual Studio code | SVN | Git | RTC
+- 🖥 &nbsp; Jenkins | Docker | Kubernetes | DevOPs
 
 <br>
 
@@ -31,11 +32,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; 
-<a href="https://www.linkedin.com/in/ravikumar96/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; 
-
-<a href="mailto:ravikumarsinghsolanki@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/ravikumar96/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:ravikumarsinghsolanki@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
 ⭐️ From [Ravi Kumar](https://github.com/solankiravi/solankiravi)
