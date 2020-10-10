@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studied Computer Science in specialization in IT Infrastructure management.
 - 💼 &nbsp; Devops Enginner with knowledge of full stack developement.
 - 🌱 &nbsp; Enthusiast in data science and Artificial Intelligence .
-- ✍️ &nbsp; Owner of <a href="https://www.youtube.com/channel/UCElB8X42691dD9R6xVTDLkw?view_as=subscriber"  rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="30" /></a>
+- ✍️ &nbsp; Owner of <a href="https://www.youtube.com/channel/UCElB8X42691dD9R6xVTDLkw?view_as=subscriber"  rel="noopener noreferrer">@GeeksByte<img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="30" /></a>
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
