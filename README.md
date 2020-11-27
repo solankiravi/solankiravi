@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently Working as a devops engineer at @KPIT
+- 🔭 &nbsp; I’m currently Working as a senior software engineer at @KPIT
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied Computer Science in specialization in IT Infrastructure management.
 - 💼 &nbsp; full stack developement experience with CICD.
