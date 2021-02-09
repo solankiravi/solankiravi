@@ -9,7 +9,6 @@
 - 💼 &nbsp; full stack Developer
 - 🌱 &nbsp; Enthusiast in data science and Artificial Intelligence .
 - ✍️ &nbsp; Owner of <a href="https://www.youtube.com/channel/UCElB8X42691dD9R6xVTDLkw?view_as=subscriber"  rel="noopener noreferrer">@GeeksByte<img src="https://img.icons8.com/plasticine/100/000000/youtube.png" width="30" /></a>
-- 📖 &nbsp; <a href="https://drive.google.com/file/d/1ecXsNKNAZIMMCGLSviGIn-kd_ru3iRKI/view?usp=sharing"  rel="noopener noreferrer">Resume</a>
 
 
 <h3>🛠 Tech Stack</h3>
